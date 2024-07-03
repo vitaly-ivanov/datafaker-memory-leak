@@ -4,7 +4,7 @@
 [versions]
 
 [libraries]
-datafaker = "net.datafaker:datafaker:2.2.2"
+datafaker = "net.datafaker:datafaker:2.3.0"
 
 [plugins]
 jvm = { id = "org.jetbrains.kotlin.jvm", version = "1.9.22" }
